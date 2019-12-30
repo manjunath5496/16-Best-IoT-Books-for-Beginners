@@ -16,11 +16,17 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(7).pdf" style="text-decoration:none;">Internet of Things (IoT) in 5 days</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(8).pdf" style="text-decoration:none;">From Internet of Things to Smart Cities: Enabling Technologies</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(4).pdf" style="text-decoration:none;">Architecting the Internet of Things</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(9).pdf" style="text-decoration:none;">Value Creation and the Internet of Things</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(5).pdf" style="text-decoration:none;">Internet of Things: Principles and Paradigms</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(10).pdf" style="text-decoration:none;">Mastering Internet of Things</a></b></li>     
    
-   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(11).pdf" style="text-decoration:none;">Learning Internet of Things</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(12).pdf" style="text-decoration:none;">The Internet of Things: Applications to the Smart Grid and Building Automation</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(13).pdf" style="text-decoration:none;">Internet of Things for Architects</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-cell-biology-papers/blob/master/cell(14).pdf" style="text-decoration:none;">Smarter Decisions – The Intersection of Internet of Things and Decision Science</a></b></li>     
+      
    
    
    
